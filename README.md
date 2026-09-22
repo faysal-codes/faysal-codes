@@ -48,12 +48,12 @@ I'm a student currently building a strong foundation in **Data Science, Data Eng
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faysal-pro&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-pro&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faysal-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-codes&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysal-pro&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysal-codes&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 > 📝 **Note:** Replace `faysal-pro` above with your actual GitHub username so the stats widgets pull your real data.
