@@ -56,8 +56,6 @@ I'm a student currently building a strong foundation in **Data Science, Data Eng
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysal-codes&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-> 📝 **Note:** Replace `faysal-pro` above with your actual GitHub username so the stats widgets pull your real data.
-
 ---
 
 ### 🎯 Currently Learning
